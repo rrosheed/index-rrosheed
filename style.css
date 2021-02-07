@@ -1,0 +1,76 @@
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  padding: 2% 2%;
+  color: #1687a7;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+#navbarNav {
+
+}
+
+body {
+ background-color: #d3e0ea;
+}
+
+.mid {
+
+  padding: 10% 5%;
+}
+
+.foot {
+  padding: 0 5%;
+}
+
+.ican2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.text {
+  padding: 5% 7%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight:400;
+}
+
+.adepix {
+  text-align: center;
+  width: 90%;
+  height: 90%;
+}
+
+.carousel-inner {
+  background-color: red;
+}
+.me-img {
+  width: 50%;
+
+}
+
+/* footer */
+.link {
+  padding: 0 15%;
+}
+
+
+.link2 {
+  text-align: center;
+  padding: 1% 5%;
+}
+.sign {
+  text-align: center;
+}
+
+.final {
+  padding: 1% 5%;
+  background-color: #98ded9;
+}
+
+.pix {
+  text-align: center;
+}
